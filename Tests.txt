@@ -1,1 +1,4 @@
-Hello!!! Tests
+Hello!!! Tests 
+""" Изменения в файле от разработчика № 2 """
+print("Hello test!!")
+""" Добавил принт HELLO TESTS"""
