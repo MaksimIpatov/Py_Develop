@@ -1,3 +1,4 @@
+
 def upper(x): """Функция написана"""
     for c in x:
         if c.isupper():
@@ -8,3 +9,10 @@ def Capitalize(S):    """function создана разработчиком № 
    return S.title()    """Function"""
 S = input()
 print (Capitalize(S))
+=======
+def upper(x):    'функция написана разработчиком № 1
+    for c in x:    'Docstrings добавлен разработчиком № 2
+        if c.isupper():    'function протестирована разработчиком № 2
+            return(c)
+        elif x.islower():
+
